@@ -785,10 +785,12 @@ section {
   color: #fff;
 }
 .contact .email-form {
+  display: inline-block;
   width: 100%;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  vertical-align: middle;
 }
 .contact .email-form .form-group {
   padding-bottom: 8px;
