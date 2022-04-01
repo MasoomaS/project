@@ -839,13 +839,13 @@ section {
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
-.contact .php-email-form .form-group {
+.contact .email-form .form-group {
   margin-bottom: 15px;
 }
 .contact .email-form label {
   padding-bottom: 8px;
 }
-.contact .email-form input, .contact .php-email-form textarea {
+.contact .email-form input, .contact .email-form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
